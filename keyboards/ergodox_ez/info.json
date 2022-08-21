@@ -1,7 +1,6 @@
 {
-    "manufacturer": "ZSA Technology Labs",
-    "url": "ergodox-ez.com",
-    "maintainer": "ZSA via Drashna",
+    "manufacturer": "hamsolodev",
+    "maintainer": "hamsolodev",
     "usb": {
         "vid": "0x3297",
         "device_version": "0.0.1"
